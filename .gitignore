@@ -4,3 +4,4 @@
 __pycache__
 df_photo_exif_final_bak.csv
 data/df_photo_exif_final copy.csv
+data/df_photo_ids.csv
