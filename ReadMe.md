@@ -10,6 +10,9 @@
 - [Google Maps API](https://developers.google.com/maps/documentation/geocoding/requests-reverse-geocoding?hl=en) for reverse geocoding<br>
 - [Random Word API](https://random-word-api.herokuapp.com/home)<br>
 
+## Code snippets
+- ```df.notna().sum() * 100 / len(df)``` - Percentage of non null (NaN) values in columns
+
 ## Johannes' ToDo-List (should be moved somewhere else
 - Difference between 'Date and Time (Original)' and 'Date and Time (Digitized)'?
 - DONE Add geo data querying to get_metadata
