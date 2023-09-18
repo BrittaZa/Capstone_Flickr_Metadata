@@ -1,4 +1,4 @@
-### Capstone project 'Flickr something'
+# Capstone project 'Flickr something'
 
 ## Project related links
 - [Mural](https://app.mural.co/t/capstonegroup17548/m/capstonegroup17548/1695028847653/0130c7107a613d7debad6a107d300824991d3e9e?sender=u05f542ff195922836d850746) for brainstorming<br>
