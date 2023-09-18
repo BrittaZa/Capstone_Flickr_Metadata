@@ -12,6 +12,7 @@
 
 ## Code snippets
 - ```df.notna().sum() * 100 / len(df)``` - Percentage of non null (NaN) values in columns
+- ```df1 = df1[~df1.id.isin(df2)]``` - Look if a field (id in this case) is inside of another dataframe
 
 ## Johannes' ToDo-List (should be moved somewhere else
 - Difference between 'Date and Time (Original)' and 'Date and Time (Digitized)'?
