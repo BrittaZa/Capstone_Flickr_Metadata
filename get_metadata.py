@@ -66,10 +66,12 @@ while True:
         df_exif = pd.read_csv(data_dir + 'df_photo_exif_final.csv', index_col=[0])
 
         df_photo_ids = pd.DataFrame(columns = ['id', 
+
                                        'owner', 
                                        'secret', 
                                        'title', 
                                        'ispublic'])
+
 
         # start timer
         start_time = time.time()
