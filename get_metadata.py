@@ -113,7 +113,12 @@ while True:
         # Look for ids that are in the exif file already (and drop them)
         length_before = len(df_photo_ids)
         df_photo_ids = df_photo_ids[~df_photo_ids.id.isin(df_exif.id)]
-        print(f'Removed {length_before - len(df_photo_ids)} entries because they are in the exif file already.')
+        print(f'Removed {length_before - len(df_photo_ids)} entries because photo ID is in the exif file already.')
+
+        # Look for user_ids that are in the exif file already (and drop them)
+        length_before = len(df_photo_ids)
+        df_photo_ids = df_photo_ids[~df_photo_ids.owner.isin(df_exif.owner)]
+        print(f'Removed {length_before - len(df_photo_ids)} entries because owner is in the exif file already.')
 
         # Iterate through dataframe, query API for EXIF data and add to another dataframe (and csv!)
         length = len(df_photo_ids)
