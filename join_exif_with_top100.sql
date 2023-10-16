@@ -46,7 +46,12 @@ WHERE date_and_time > '2021-10-01' AND date_and_time < '2022-01-01'
 AND make = 'canon'
 GROUP BY user_id ORDER BY count DESC;
 
-SELECT user_id, count(*) FROM photo_exif_top100 
-WHERE date_and_time > '2021-07-01' AND date_and_time < '2022-10-01'
-AND make = 'nikon'
-GROUP BY user_id ORDER BY count DESC;
+SELECT * FROM apertures_estimated WHERE aperture_est = 1.0;
+update apertures_estimated SET aperture_est = 1.2 WHERE aperture_est = 1.0;
+
+SELECT count(DISTINCT make) FROM photo_exif_top100;
+
+SELECT count(*) FROM photo_exif_top100 WHERE TYPE LIKE 'Smartphone';
+
+SELECT AVG(aperture) FROM photo_exif_top100 pet WHERE TYPE NOT LIKE 'Smartphone';
+SELECT AVG(focal_length) FROM photo_exif_top100;
