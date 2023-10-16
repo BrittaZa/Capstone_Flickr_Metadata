@@ -10,6 +10,13 @@ In this project we gathered image metadata from the flickr.com API, enrich this 
 ![Capstone Presentation_ Flickr Metadata-4](https://github.com/BrittaZa/Capstone_Flickr_Metadata/assets/3992727/8d8bb126-7e0a-44d8-b9ac-17c2908653df)
 ![Capstone Presentation_ Flickr Metadata-5](https://github.com/BrittaZa/Capstone_Flickr_Metadata/assets/3992727/9f016263-8316-4947-9a73-2df6d483f133)
 ![Capstone Presentation_ Flickr Metadata-6](https://github.com/BrittaZa/Capstone_Flickr_Metadata/assets/3992727/f4b4586f-9ac2-486a-b8e9-347d5de714a6)
+![Capstone Presentation_ Flickr Metadata-7](https://github.com/BrittaZa/Capstone_Flickr_Metadata/assets/3992727/0b6cbca2-3bf8-442a-8755-9692a706a497)
+![Capstone Presentation_ Flickr Metadata-8](https://github.com/BrittaZa/Capstone_Flickr_Metadata/assets/3992727/666290f8-96ee-48bd-b4f8-ef3f1635727b)
+![Capstone Presentation_ Flickr Metadata-9](https://github.com/BrittaZa/Capstone_Flickr_Metadata/assets/3992727/400cf87f-06ce-476d-ab86-441cd1a5bc63)
+![Capstone Presentation_ Flickr Metadata-10](https://github.com/BrittaZa/Capstone_Flickr_Metadata/assets/3992727/35c9ed09-39f3-44c7-8885-8a9921b99101)
+![Capstone Presentation_ Flickr Metadata-11](https://github.com/BrittaZa/Capstone_Flickr_Metadata/assets/3992727/a24d3300-8607-4721-8928-4793693779c2)
+![Capstone Presentation_ Flickr Metadata-12](https://github.com/BrittaZa/Capstone_Flickr_Metadata/assets/3992727/bdf59855-90f9-4ff1-b76f-c9ab3bebdcd4)
+![Capstone Presentation_ Flickr Metadata-13](https://github.com/BrittaZa/Capstone_Flickr_Metadata/assets/3992727/f761405b-49ee-4d09-b563-db7beaef9929)
 
 
 ## Technical links
