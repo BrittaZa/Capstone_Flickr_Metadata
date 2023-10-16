@@ -1,4 +1,4 @@
-### Capstone project 'General Market Research on flickr.com Metadata'
+# Capstone project 'General Market Research on flickr.com Metadata'
 
 In this project we gathered image metadata from the flickr.com API, enrich this data with other sources and check our hypotheses against.
 
