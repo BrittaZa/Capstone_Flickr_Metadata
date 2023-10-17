@@ -27,8 +27,8 @@
 - inplace true?
 ## to Do
 - get a updated list of unique users where list is not in old list
-- write a update loop with sleep and if response== '200' to get rid of Errors
-- get locationdata from googleMaps API
+- write a update loop with sleep to get rid of Errors
+- get locationdata 
 - write a cleaning function
 - add to user_df
 - send dataframe to SQL Database
